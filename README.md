@@ -2,7 +2,7 @@
 - 👀 Coding is My Hobby
 - 🌱 I’m currently learning Full-stack Development
 - 💞️ I’m looking for Team
-- 📫 How to reach me imranklahoori@gmail.com | https://wa.me/923044576506
+- 📫 How to reach me imranklahoori@gmail.com | [https://wa.me/923044576506](https://wa.me/message/EMETJKOXDXA7P1)
 
 <!---
 imranklahoori/imranklahoori is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
