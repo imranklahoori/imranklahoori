@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @imranklahoori
-- 👀 I’m interested in Coding
+- 👀 Coding is My Hobby
 - 🌱 I’m currently learning Full-stack Development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for Team
 - 📫 How to reach me imranklahoori@gmail.com | https://wa.me/923044576506
 
 <!---
